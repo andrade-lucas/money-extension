@@ -1,0 +1,12 @@
+/home/lucas/dev/MoneyExtension/MoneyExtension/bin/Debug/net7.0/MoneyExtension.deps.json
+/home/lucas/dev/MoneyExtension/MoneyExtension/bin/Debug/net7.0/MoneyExtension.dll
+/home/lucas/dev/MoneyExtension/MoneyExtension/bin/Debug/net7.0/MoneyExtension.pdb
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.csproj.AssemblyReference.cache
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.AssemblyInfoInputs.cache
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.AssemblyInfo.cs
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.csproj.CoreCompileInputs.cache
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.dll
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/refint/MoneyExtension.dll
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/MoneyExtension.pdb
+/home/lucas/dev/MoneyExtension/MoneyExtension/obj/Debug/net7.0/ref/MoneyExtension.dll
