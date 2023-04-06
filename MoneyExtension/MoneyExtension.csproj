@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
-    <Version>1.0.0</Version>
+    <PackageId>MoneyExtensionsAndrade</PackageId>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Lucas Andrade</Authors>
     <PackageDescription>Extends to converts decimal values to cents</PackageDescription>
